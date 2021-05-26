@@ -2,7 +2,7 @@
 
 ## spider_baike_demo
 
-简单的爬虫示例（爬取百度百科的数据）
+Simple crawler example, crawling data of Baidu Baike.
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/balsikandar/Android-Studio-Plugins/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/Simplation/spider_baike_demo.svg?style=social&label=Fork)](https://github.com/Simplation/spider_baike_demo/fork) [![GitHub watchers](https://img.shields.io/github/watchers/Simplation/spider_baike_demo.svg?style=social&label=Watch)](https://github.com/Simplation/spider_baike_demo)[![GitHub followers](https://img.shields.io/github/followers/Simplation.svg?style=social&label=Follow)](https://github.com/Simplation)  [![GitHub Starts](https://img.shields.io/github/stars/Simplation/spider_baike_demo?style=social)](https://github.com/Simplation) 
 
